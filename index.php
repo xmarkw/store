@@ -6,19 +6,11 @@
   <title></title>
   <meta name="Generator" content="Cocoa HTML Writer">
   <meta name="CocoaVersion" content="1265.2">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-  </style>
 </head>
 <body>
 <?PHP
 echo 'hello world';
 ?>
-<p class="p1">&lt;?</p>
-<p class="p2"><br></p>
-<p class="p1">echo “hello, world”;</p>
-<p class="p2"><br></p>
-<p class="p1">?&gt;</p>
+
 </body>
 </html>
