@@ -12,8 +12,8 @@
   </style>
 </head>
 <body>
-<?
-echo "hello world";
+<?PHP
+echo 'hello world';
 ?>
 <p class="p1">&lt;?</p>
 <p class="p2"><br></p>
